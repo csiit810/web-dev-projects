@@ -1,0 +1,28 @@
+/* selected tag{
+
+  property:value;
+} */
+body{
+
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  background-image: url(https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg);
+}
+
+p{
+ color: red;
+
+}
+
+div{
+background-color: gray;
+
+}
+
+span{
+  color: white;
+background-color: black;
+font-family: cursive;
+}

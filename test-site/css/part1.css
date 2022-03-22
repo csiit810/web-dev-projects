@@ -1,0 +1,28 @@
+/* selected tag{
+
+property : value;
+
+} */
+main{
+border: 2px;
+}
+h1{
+ color: rgba(255,19,2,0.5);
+
+}
+
+li{
+
+  color: red;
+}
+
+p{
+color: green;
+  font-weight: bolder;
+}
+
+h4{
+color: purple;
+font-family: cursive;
+
+}
