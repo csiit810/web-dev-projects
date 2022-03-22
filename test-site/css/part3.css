@@ -1,0 +1,26 @@
+/* this file contains css classes and id */
+/* selected tag{
+  propert:value;
+} */
+
+body{
+  background-color: #004663;
+}
+.firstDiv{
+  color:red;
+}
+.secondDiv{
+  color:blue;
+}
+
+ #unique{
+   color: green;
+font-family: cursive;
+   font-variant-ligatures: normal;
+ }
+
+ h3 + ul{
+
+
+   border: 2px dotted pink
+ }
