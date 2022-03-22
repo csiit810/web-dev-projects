@@ -1,0 +1,8 @@
+/* specificity=priorities of tags/priorities heirarchy */
+div{
+  color: red;
+}
+ #idone{
+
+   color: yellow;
+ }
