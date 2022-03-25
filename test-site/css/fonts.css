@@ -1,0 +1,17 @@
+/* selected tag{
+
+  property:value;
+} */
+
+p {
+   font-family: 'AghjaMedium';
+   font-weight: normal;
+   font-style: normal;
+}
+#para{
+
+  font-family: monospace;
+  font-style: italic;
+  font-weight: bold;
+  color: red;
+}
