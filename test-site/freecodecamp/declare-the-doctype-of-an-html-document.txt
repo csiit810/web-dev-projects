@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-
-  <h1>Doc type is expalined in this example</h1>
-
-
-
-
-  </html>
